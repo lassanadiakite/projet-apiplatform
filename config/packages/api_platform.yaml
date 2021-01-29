@@ -29,4 +29,4 @@ api_platform:
     #     -   shared_max_age: 3600
     #     -   vary: ['Content-Type', 'Authorization', 'Origin']
     #     -   public: true
-    #
+    
