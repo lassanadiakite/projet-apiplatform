@@ -62,7 +62,7 @@ class User implements UserInterface
     private $roles = [];
 
     /**
-     * @Groups({ "user_read",
+     * @Groups({
      *     "user_write",
      * })
      * @var string The hashed password
